@@ -9,4 +9,4 @@ short_description: Assembly is a low-level programming language.
 topic: assembly
 wikipedia_url: https://en.wikipedia.org/wiki/Assembly_Language
 ---
-Assembly is a low-level programming language in which there is a very strict correspondence between language instructions and architecture machine code instructions.
+Assembly language is a low-level programming language characterized by a direct correspondence between its instructions and machine code instructions specific to a particular hardware architecture. It is inherently platform-dependent, meaning that assembly code written for one platform may not be compatible with another due to differences in hardware architectures and instruction sets.
