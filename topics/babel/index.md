@@ -6,7 +6,7 @@ github_url: https://github.com/babel
 logo: babel.png
 related: babel-preset, babel-plugin, babel-es6
 released: September 28, 2014
-short_description: Babel is a compiler for writing next generation JavaScript, today.
+short_description: The primary goal of Babel is to ensure backward compatibility across different web browsers for JavaScript codes.
 topic: babel
 url: https://babeljs.io/
 ---
